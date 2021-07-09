@@ -5,15 +5,7 @@
 <title>Thomas Asistente</title>
 </head>
 <body>
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="Thomas"
-  agent-id="17624991-d599-460b-b7db-4cee5f0ea8de"
-  language-code="en"
-></df-messenger>
-  
-<style>
+  <style>
       df-messenger {
         --df-messenger-bot-message: #bc2f60; /* El color de fondo de la burbuja para los mensajes del agente */
 
@@ -38,7 +30,19 @@
         --df-messenger-minimized-chat-close-icon-color: #ffffff; /* El color del ícono de cierre en la vista del chat cerrado */
       }
     </style>
+  
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Thomas"
+  agent-id="17624991-d599-460b-b7db-4cee5f0ea8de"
+  language-code="en"
+></df-messenger>
+  
+
 </body>
+  
+  
 </html>
 
 
