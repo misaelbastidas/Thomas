@@ -38,7 +38,7 @@
 
 > ### - Thomas Assistant is a ChatBot made to Assist People where they are in the Bank WebPage 
 
-> ### - He Uses DialogFlow As a Base to Process Flows and a Powerfull Library Called Zaroc as Backend 
+> ### - He Uses DialogFlow As a Base to Process Flows and a Powerful Library Called Zaroc as Backend 
 
 > ### - Currently Thomas its only available on Navigators and Android Platform 
 
@@ -141,7 +141,7 @@
 
 > - Thomas Will Show a Message With Personal Credits Webpage on a Button To be Accessed
 
-![Thomas Personal Credits]()
+![Thomas Personal Credits](https://codexceleste.com/chatbots/thomas/images/thomas_personal_credits.png)
 
 > ### **Change Language**
 
@@ -169,7 +169,7 @@
 
 ![Thomas Transaction2](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_2.png)
 
-![Thomas Transaction3]()
+![Thomas Transaction3](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_3.png)
 
 > ### **Transfers**
 
@@ -177,7 +177,7 @@
 
 > - Just Select Any of your Accounts , Then The Receiver and Confirm on the New Message That Will Appear
 
-![Thomas Transfer]()
+![Thomas Transfer](https://codexceleste.com/chatbots/thomas/images/thomas_transfer.png)
 
 > - Now the Amount and The Transfer Will be Done
 
