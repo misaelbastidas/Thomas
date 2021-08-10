@@ -58,7 +58,7 @@
 
 ![Thomas Language](https://codexceleste.com/chatbots/thomas/images/thomas_language.png)
 
-> - This Feature Is Optional and Isn't Enabled By Default 
+> - Language Features Are Optional
 
 > - So The Default Language of Thomas is English
 
@@ -141,7 +141,7 @@
 
 > - Thomas Will Show a Message With Personal Credits Webpage on a Button To be Accessed
 
-![Thomas Personal Credits](https://codexceleste.com/chatbots/thomas/images/thomas_personal_credits.png)
+![Thomas Personal Credits](https://codexceleste.com/chatbots/thomas/images/thomas_personal_credits2.png)
 
 > ### **Change Language**
 
@@ -169,7 +169,7 @@
 
 ![Thomas Transaction2](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_2.png)
 
-![Thomas Transaction3](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_3.png)
+![Thomas Transaction3](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_4.png)
 
 > ### **Transfers**
 
@@ -177,7 +177,7 @@
 
 > - Just Select Any of your Accounts , Then The Receiver and Confirm on the New Message That Will Appear
 
-![Thomas Transfer](https://codexceleste.com/chatbots/thomas/images/thomas_transfer.png)
+![Thomas Transfer](https://codexceleste.com/chatbots/thomas/images/thomas_transfer2.png)
 
 > - Now the Amount and The Transfer Will be Done
 
