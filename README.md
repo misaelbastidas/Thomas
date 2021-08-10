@@ -68,6 +68,16 @@
 
 > - Both of them With different Options According to The Needs of the user
 
+> - For Testing Purposes There Are Accounts With High Balance 
+
+> - Those Accounts Do not have Real money They re Just to Try Thomas
+
+> - user: thomas@gmail.com  pass: 1234
+
+> - user: natz@gmail.com pass: 1234
+
+> - user: matt@gmail.com pass: 1234
+
 
 ## **Non-User Menu**
 
@@ -206,7 +216,7 @@
 
 ## **🎉Colaborations**
 
-> - **Mizar Contasti** Main ChatBot Developer Author of the Library Zaroc Who made This bots Possible
+> - **Mizar Contasti** Main ChatBot Developer Author of the Library Zaroc Who made This ChatBot Possible
 
 ### 🙌How to Colaborate
 
@@ -215,6 +225,6 @@
 
 ### 😁People Who colaborate on Thomas
 
-> - [Mizar Contasti](https://github.com/Mizar-Contasti)
+> - **[Mizar Contasti](https://github.com/Mizar-Contasti)**
 
 
