@@ -72,11 +72,11 @@
 
 > - Those Accounts Do not have Real money They re Just to Try Thomas
 
-> - user: thomas@gmail.com  pass: 1234
+> - user: thomas@gmail.com  pass: 1234  Main Account: 440534415842706185
 
-> - user: natz@gmail.com pass: 1234
+> - user: natz@gmail.com pass: 1234  Main Account: 320306453918730384
 
-> - user: matt@gmail.com pass: 1234
+> - user: matt@gmail.com pass: 1234 Main Account: 539941125482252017
 
 
 ## **Non-User Menu**
