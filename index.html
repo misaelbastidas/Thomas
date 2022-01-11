@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset=utf-8 />
-  <meta name="viewport" content="width-device-width, initial-scale=1" />
-<title>Thomas Asistente</title>
-  <link rel="icon" href="https://codexceleste.com/chatbots/thomas/images/logo.png" type="image/x-icon">
-  
-</head>
-<body>
-  <style>
-    
-    
-    
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width-device-width, initial-scale=1" />
+
+    <title>Practica</title>
+  </head>
+
+  <body>
+    <style>
       df-messenger {
         --df-messenger-bot-message: #bc2f60; /* El color de fondo de la burbuja para los mensajes del agente */
 
@@ -36,20 +35,21 @@
         --df-messenger-minimized-chat-close-icon-color: #ffffff; /* El color del ícono de cierre en la vista del chat cerrado */
       }
     </style>
-  
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="Thomas"
-  agent-id="17624991-d599-460b-b7db-4cee5f0ea8de"
-  language-code="en"
-  chat-icon="https://codexceleste.com/chatbots/core/images/zaroc1.png"
-></df-messenger>
-  
 
-</body>
-  
-  
+    <!-- EXAMPLE BOT -->
+
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+    <df-messenger
+      agent-id="9a886d1e-1db6-4415-b15d-6f8a24aef215"
+      chat-icon="https://codexceleste.com/chatbots/core/images/zaroc1.png"
+      chat-title="Emma"
+      intent="WELCOME"
+      language-code="es"
+    ></df-messenger>
+
+    <script src="emma.js"></script>
+  </body>
 </html>
 
 
