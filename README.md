@@ -165,11 +165,11 @@
 
 > - Thomas will Ask for any of your Accounts and Show the transactions made before
 
-![Thomas Transaction1](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_1.png)
+![Thomas Transaction1](https://codexceleste.com/chatbotsOld/thomas/images/thomas_transaction_1.png)
 
-![Thomas Transaction2](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_2.png)
+![Thomas Transaction2](https://codexceleste.com/chatbotsOld/thomas/images/thomas_transaction_2.png)
 
-![Thomas Transaction3](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_4.png)
+![Thomas Transaction3](https://codexceleste.com/chatbotsOld/thomas/images/thomas_transaction_4.png)
 
 > ### **Transfers**
 
@@ -177,7 +177,7 @@
 
 > - Just Select Any of your Accounts , Then The Receiver and Confirm on the New Message That Will Appear
 
-![Thomas Transfer](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transfer2.png)
+![Thomas Transfer](https://codexceleste.com/chatbotsOld/thomas/images/thomas_transfer2.png)
 
 > - Now the Amount and The Transfer Will be Done
 
