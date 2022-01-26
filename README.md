@@ -56,7 +56,7 @@
 
 > - The First Thing We see is a Message Asking for Language
 
-![Thomas Language](https://codexceleste.com/chatbots/thomas/images/thomas_language.png)
+![Thomas Language](https://codexceleste.com/chatbotsOld/thomas/images/thomas_language.png)
 
 > - Language Features Are Optional
 
@@ -83,7 +83,7 @@
 
 > - This Menu Contains Most Basic Information of The Most Searched Topics in a Bank
 
-![Thomas Non User Menu](https://codexceleste.com/chatbots/thomas/images/thomas_non_user_menu.png)
+![Thomas Non User Menu](https://codexceleste.com/chatbotsOld/thomas/images/thomas_non_user_menu.png)
 
 > ### **Sign Up**
 
@@ -103,17 +103,17 @@
 
 > - The Bot Asks For Your Email and Password
 
-![Thomas Sign In](https://codexceleste.com/chatbots/thomas/images/thomas_signin.png)
+![Thomas Sign In](https://codexceleste.com/chatbotsOld/thomas/images/thomas_signin.png)
 
 > - Thomas has a Session-System That Can Detect Whenever an Account is Opened in Another Device
 
-![Thomas Closed Session](https://codexceleste.com/chatbots/thomas/images/thomas_closedsession.png)
+![Thomas Closed Session](https://codexceleste.com/chatbotsOld/thomas/images/thomas_closedsession.png)
 
 > - The message Allows The user to Recover the Session and Sign In Again This is for Security Purposes
 
 > - After Everything  The user Will See the User Menu
 
-![Thomas User Menu](https://codexceleste.com/chatbots/thomas/images/thomas_user_menu.png)
+![Thomas User Menu](https://codexceleste.com/chatbotsOld/thomas/images/thomas_user_menu.png)
 
 > - This new Menu Also has the option of Sign out But We will se That Later
 
@@ -121,7 +121,7 @@
 
 > - This Section Has Many Buttons But They Are Simple
 
-![Thomas General Information](https://codexceleste.com/chatbots/thomas/images/thomas_general_information.png)
+![Thomas General Information](https://codexceleste.com/chatbotsOld/thomas/images/thomas_general_information.png)
 
 > - **Location** This Button Shows The Location of the available Banks Around
 
@@ -135,13 +135,13 @@
 
 > - The Bot Asks For Credit or Debit Card and Depending of wich you choose it Will Display The Available Cards
 
-![Thomas See Cards](https://codexceleste.com/chatbots/thomas/images/thomas_see_cards.png)
+![Thomas See Cards](https://codexceleste.com/chatbotsOld/thomas/images/thomas_see_cards.png)
 
 > ### **Personal Credits**
 
 > - Thomas Will Show a Message With Personal Credits Webpage on a Button To be Accessed
 
-![Thomas Personal Credits](https://codexceleste.com/chatbots/thomas/images/thomas_personal_credits2.png)
+![Thomas Personal Credits](https://codexceleste.com/chatbotsOld/thomas/images/thomas_personal_credits2.png)
 
 > ### **Change Language**
 
@@ -151,7 +151,7 @@
 
 > - This is The Menu for a Normal User where you can do many things
 
-![Thomas User Menu](https://codexceleste.com/chatbots/thomas/images/thomas_user_menu.png)
+![Thomas User Menu](https://codexceleste.com/chatbotsOld/thomas/images/thomas_user_menu.png)
 
 > - If The User is New Thomas Will ask to Create a New Bank Account
 
@@ -165,11 +165,11 @@
 
 > - Thomas will Ask for any of your Accounts and Show the transactions made before
 
-![Thomas Transaction1](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_1.png)
+![Thomas Transaction1](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_1.png)
 
-![Thomas Transaction2](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_2.png)
+![Thomas Transaction2](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_2.png)
 
-![Thomas Transaction3](https://codexceleste.com/chatbots/thomas/images/thomas_transaction_4.png)
+![Thomas Transaction3](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transaction_4.png)
 
 > ### **Transfers**
 
@@ -177,7 +177,7 @@
 
 > - Just Select Any of your Accounts , Then The Receiver and Confirm on the New Message That Will Appear
 
-![Thomas Transfer](https://codexceleste.com/chatbots/thomas/images/thomas_transfer2.png)
+![Thomas Transfer](https://codexceleste.com/chatbotsOldOld/thomas/images/thomas_transfer2.png)
 
 > - Now the Amount and The Transfer Will be Done
 
@@ -195,7 +195,7 @@
 
 > - If the User Meets The Requiremente for a Certaint type of Card It Will Appear on Available to Request
 
-![Thomas Request Card](https://codexceleste.com/chatbots/thomas/images/thomas_request_card.png)
+![Thomas Request Card](https://codexceleste.com/chatbotsOld/thomas/images/thomas_request_card.png)
 
 > - If All Goes Smoothly Now You Have a New Card
 
@@ -205,13 +205,13 @@
 
 > - Here The User Can See His Profile and Change It , Some Fields Cannot be Changed like Official ID or Email
 
-![Thomas Profile](https://codexceleste.com/chatbots/thomas/images/thomas_profile.png)
+![Thomas Profile](https://codexceleste.com/chatbotsOld/thomas/images/thomas_profile.png)
 
 > ### **Sign Out**
 
 > - Pretty Basic Just Sign Out and Closes Session
 
-![Thomas Sign Out](https://codexceleste.com/chatbots/thomas/images/thomas_signout.png)
+![Thomas Sign Out](https://codexceleste.com/chatbotsOld/thomas/images/thomas_signout.png)
 
 
 ## **🎉Colaborations**
