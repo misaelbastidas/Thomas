@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/misaelbastidas/thomas">
-    <img src="https://codexceleste.com/chatbots/thomas/images/logo.png" alt="Logo" width="120" height="120">
+    <img src="https://codexceleste.com/chatbotsOld/thomas/images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Thomas Banking Bot</h3>
